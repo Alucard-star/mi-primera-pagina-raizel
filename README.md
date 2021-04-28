@@ -1,3 +1,3 @@
-animal preferido: : lobo:
-comida preferida: : chocolate_bar:
-deporte preferido: : biking_man:
+animal preferido: :lobo:  
+comida preferida: :chocolate_bar:  
+deporte preferido: :biking_man:  
